@@ -10,7 +10,13 @@ Tool membuat seni ASCII dari teks maupun gambar dengan berbagai pilihan font dan
 
 ## 🛠 Instalasi
 1. Pastikan Python 3 terinstall
-2. Instal library yang dibutuhkan:
+2. Clone
+   ```
+   git clone https://github.com/123tool/ASCII-Generator.git
+   cd ASCII-Generator
+3. Instal library yang dibutuhkan:
    ```bash
    pip install -r requirements.txt
-   
+4. Jalankan :
+   ```
+   python main.py
